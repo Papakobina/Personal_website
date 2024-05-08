@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Personal_website/static/css/main.8efbbd05.chunk.css",
+    "main.js": "/Personal_website/static/js/main.69b312ad.chunk.js",
+    "main.js.map": "/Personal_website/static/js/main.69b312ad.chunk.js.map",
+    "runtime-main.js": "/Personal_website/static/js/runtime-main.a0aa15e7.js",
+    "runtime-main.js.map": "/Personal_website/static/js/runtime-main.a0aa15e7.js.map",
+    "static/js/2.21f72345.chunk.js": "/Personal_website/static/js/2.21f72345.chunk.js",
+    "static/js/2.21f72345.chunk.js.map": "/Personal_website/static/js/2.21f72345.chunk.js.map",
+    "static/js/3.9778586e.chunk.js": "/Personal_website/static/js/3.9778586e.chunk.js",
+    "static/js/3.9778586e.chunk.js.map": "/Personal_website/static/js/3.9778586e.chunk.js.map",
+    "index.html": "/Personal_website/index.html",
+    "static/css/main.8efbbd05.chunk.css.map": "/Personal_website/static/css/main.8efbbd05.chunk.css.map",
+    "static/js/2.21f72345.chunk.js.LICENSE.txt": "/Personal_website/static/js/2.21f72345.chunk.js.LICENSE.txt",
+    "static/media/Papakobina1.83d98c6f.png": "/Personal_website/static/media/Papakobina1.83d98c6f.png",
+    "static/media/SpamorHam.1976a05d.png": "/Personal_website/static/media/SpamorHam.1976a05d.png",
+    "static/media/climatebots.dde2e815.gif": "/Personal_website/static/media/climatebots.dde2e815.gif",
+    "static/media/houseprediction.5a0592e9.png": "/Personal_website/static/media/houseprediction.5a0592e9.png",
+    "static/media/kobina.06d6c8f4.jpg": "/Personal_website/static/media/kobina.06d6c8f4.jpg",
+    "static/media/lane-detection.ac504d24.png": "/Personal_website/static/media/lane-detection.ac504d24.png",
+    "static/media/photobot.7116af08.gif": "/Personal_website/static/media/photobot.7116af08.gif",
+    "static/media/resume.08ac19d6.pdf": "/Personal_website/static/media/resume.08ac19d6.pdf",
+    "static/media/shapes.127b0570.gif": "/Personal_website/static/media/shapes.127b0570.gif",
+    "static/media/stocksportfolio.01bb9896.gif": "/Personal_website/static/media/stocksportfolio.01bb9896.gif",
+    "static/media/tic-tac-toe.c9a2ae37.gif": "/Personal_website/static/media/tic-tac-toe.c9a2ae37.gif",
+    "static/media/webcam_painter.8ab78496.gif": "/Personal_website/static/media/webcam_painter.8ab78496.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0aa15e7.js",
+    "static/js/2.21f72345.chunk.js",
+    "static/css/main.8efbbd05.chunk.css",
+    "static/js/main.69b312ad.chunk.js"
+  ]
+}
