@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Personal_website/static/css/main.8efbbd05.chunk.css",
-    "main.js": "/Personal_website/static/js/main.94ecd648.chunk.js",
-    "main.js.map": "/Personal_website/static/js/main.94ecd648.chunk.js.map",
+    "main.css": "/Personal_website/static/css/main.e4004c85.chunk.css",
+    "main.js": "/Personal_website/static/js/main.b0d59603.chunk.js",
+    "main.js.map": "/Personal_website/static/js/main.b0d59603.chunk.js.map",
     "runtime-main.js": "/Personal_website/static/js/runtime-main.f82c1be4.js",
     "runtime-main.js.map": "/Personal_website/static/js/runtime-main.f82c1be4.js.map",
     "static/js/2.05010452.chunk.js": "/Personal_website/static/js/2.05010452.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.96679542.chunk.js": "/Personal_website/static/js/3.96679542.chunk.js",
     "static/js/3.96679542.chunk.js.map": "/Personal_website/static/js/3.96679542.chunk.js.map",
     "index.html": "/Personal_website/index.html",
-    "static/css/main.8efbbd05.chunk.css.map": "/Personal_website/static/css/main.8efbbd05.chunk.css.map",
+    "static/css/main.e4004c85.chunk.css.map": "/Personal_website/static/css/main.e4004c85.chunk.css.map",
     "static/js/2.05010452.chunk.js.LICENSE.txt": "/Personal_website/static/js/2.05010452.chunk.js.LICENSE.txt",
     "static/media/Papakobina1.83d98c6f.png": "/Personal_website/static/media/Papakobina1.83d98c6f.png",
     "static/media/SpamorHam.1976a05d.png": "/Personal_website/static/media/SpamorHam.1976a05d.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.f82c1be4.js",
     "static/js/2.05010452.chunk.js",
-    "static/css/main.8efbbd05.chunk.css",
-    "static/js/main.94ecd648.chunk.js"
+    "static/css/main.e4004c85.chunk.css",
+    "static/js/main.b0d59603.chunk.js"
   ]
 }
