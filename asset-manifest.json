@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Personal_website/static/css/main.8efbbd05.chunk.css",
-    "main.js": "/Personal_website/static/js/main.69b312ad.chunk.js",
-    "main.js.map": "/Personal_website/static/js/main.69b312ad.chunk.js.map",
-    "runtime-main.js": "/Personal_website/static/js/runtime-main.a0aa15e7.js",
-    "runtime-main.js.map": "/Personal_website/static/js/runtime-main.a0aa15e7.js.map",
-    "static/js/2.21f72345.chunk.js": "/Personal_website/static/js/2.21f72345.chunk.js",
-    "static/js/2.21f72345.chunk.js.map": "/Personal_website/static/js/2.21f72345.chunk.js.map",
-    "static/js/3.9778586e.chunk.js": "/Personal_website/static/js/3.9778586e.chunk.js",
-    "static/js/3.9778586e.chunk.js.map": "/Personal_website/static/js/3.9778586e.chunk.js.map",
+    "main.js": "/Personal_website/static/js/main.94ecd648.chunk.js",
+    "main.js.map": "/Personal_website/static/js/main.94ecd648.chunk.js.map",
+    "runtime-main.js": "/Personal_website/static/js/runtime-main.f82c1be4.js",
+    "runtime-main.js.map": "/Personal_website/static/js/runtime-main.f82c1be4.js.map",
+    "static/js/2.05010452.chunk.js": "/Personal_website/static/js/2.05010452.chunk.js",
+    "static/js/2.05010452.chunk.js.map": "/Personal_website/static/js/2.05010452.chunk.js.map",
+    "static/js/3.96679542.chunk.js": "/Personal_website/static/js/3.96679542.chunk.js",
+    "static/js/3.96679542.chunk.js.map": "/Personal_website/static/js/3.96679542.chunk.js.map",
     "index.html": "/Personal_website/index.html",
     "static/css/main.8efbbd05.chunk.css.map": "/Personal_website/static/css/main.8efbbd05.chunk.css.map",
-    "static/js/2.21f72345.chunk.js.LICENSE.txt": "/Personal_website/static/js/2.21f72345.chunk.js.LICENSE.txt",
+    "static/js/2.05010452.chunk.js.LICENSE.txt": "/Personal_website/static/js/2.05010452.chunk.js.LICENSE.txt",
     "static/media/Papakobina1.83d98c6f.png": "/Personal_website/static/media/Papakobina1.83d98c6f.png",
     "static/media/SpamorHam.1976a05d.png": "/Personal_website/static/media/SpamorHam.1976a05d.png",
     "static/media/climatebots.dde2e815.gif": "/Personal_website/static/media/climatebots.dde2e815.gif",
@@ -26,9 +26,9 @@
     "static/media/webcam_painter.8ab78496.gif": "/Personal_website/static/media/webcam_painter.8ab78496.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0aa15e7.js",
-    "static/js/2.21f72345.chunk.js",
+    "static/js/runtime-main.f82c1be4.js",
+    "static/js/2.05010452.chunk.js",
     "static/css/main.8efbbd05.chunk.css",
-    "static/js/main.69b312ad.chunk.js"
+    "static/js/main.94ecd648.chunk.js"
   ]
 }
