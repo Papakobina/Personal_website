@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Personal_website/static/css/main.e4004c85.chunk.css",
-    "main.js": "/Personal_website/static/js/main.5c2543ec.chunk.js",
-    "main.js.map": "/Personal_website/static/js/main.5c2543ec.chunk.js.map",
+    "main.js": "/Personal_website/static/js/main.1afac6bb.chunk.js",
+    "main.js.map": "/Personal_website/static/js/main.1afac6bb.chunk.js.map",
     "runtime-main.js": "/Personal_website/static/js/runtime-main.f82c1be4.js",
     "runtime-main.js.map": "/Personal_website/static/js/runtime-main.f82c1be4.js.map",
     "static/js/2.05010452.chunk.js": "/Personal_website/static/js/2.05010452.chunk.js",
@@ -12,16 +12,22 @@
     "index.html": "/Personal_website/index.html",
     "static/css/main.e4004c85.chunk.css.map": "/Personal_website/static/css/main.e4004c85.chunk.css.map",
     "static/js/2.05010452.chunk.js.LICENSE.txt": "/Personal_website/static/js/2.05010452.chunk.js.LICENSE.txt",
+    "static/media/Ice_breaker.f7247bdc.png": "/Personal_website/static/media/Ice_breaker.f7247bdc.png",
     "static/media/Papakobina1.83d98c6f.png": "/Personal_website/static/media/Papakobina1.83d98c6f.png",
     "static/media/SpamorHam.1976a05d.png": "/Personal_website/static/media/SpamorHam.1976a05d.png",
+    "static/media/ai_voice_assistant.1424f7eb.png": "/Personal_website/static/media/ai_voice_assistant.1424f7eb.png",
     "static/media/climatebots.dde2e815.gif": "/Personal_website/static/media/climatebots.dde2e815.gif",
+    "static/media/cnncifar10.3619e044.png": "/Personal_website/static/media/cnncifar10.3619e044.png",
+    "static/media/document_assistant_Chatbot.9ccf111c.png": "/Personal_website/static/media/document_assistant_Chatbot.9ccf111c.png",
     "static/media/houseprediction.5a0592e9.png": "/Personal_website/static/media/houseprediction.5a0592e9.png",
     "static/media/kobina.06d6c8f4.jpg": "/Personal_website/static/media/kobina.06d6c8f4.jpg",
     "static/media/lane-detection.ac504d24.png": "/Personal_website/static/media/lane-detection.ac504d24.png",
+    "static/media/lang_Chain.f51cff05.png": "/Personal_website/static/media/lang_Chain.f51cff05.png",
     "static/media/photobot.7116af08.gif": "/Personal_website/static/media/photobot.7116af08.gif",
     "static/media/resume.08ac19d6.pdf": "/Personal_website/static/media/resume.08ac19d6.pdf",
     "static/media/shapes.127b0570.gif": "/Personal_website/static/media/shapes.127b0570.gif",
     "static/media/stocksportfolio.01bb9896.gif": "/Personal_website/static/media/stocksportfolio.01bb9896.gif",
+    "static/media/study_buddy.24e25260.png": "/Personal_website/static/media/study_buddy.24e25260.png",
     "static/media/tic-tac-toe.c9a2ae37.gif": "/Personal_website/static/media/tic-tac-toe.c9a2ae37.gif",
     "static/media/webcam_painter.8ab78496.gif": "/Personal_website/static/media/webcam_painter.8ab78496.gif"
   },
@@ -29,6 +35,6 @@
     "static/js/runtime-main.f82c1be4.js",
     "static/js/2.05010452.chunk.js",
     "static/css/main.e4004c85.chunk.css",
-    "static/js/main.5c2543ec.chunk.js"
+    "static/js/main.1afac6bb.chunk.js"
   ]
 }
